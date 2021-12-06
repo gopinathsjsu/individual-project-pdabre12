@@ -40,7 +40,6 @@ Factory pattern is used because the output file decides whether the output is go
 
 ### Test Case 2:
 
-![Screenshot (94)](https://user-images.githubusercontent.com/80276547/144793510-62fb732f-e176-4ad5-be2b-cc86e3611c7e.png)
 
 
 
