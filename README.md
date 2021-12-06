@@ -35,7 +35,7 @@ Credit card update after purchase
 
 ![Screenshot (92)](https://user-images.githubusercontent.com/80276547/144793524-0e4c8bc7-51cc-471c-832d-e380b07c31fc.png)
 
-Output amount in Terminal
+Intermediate terminal screen
 
 
 
@@ -58,8 +58,7 @@ Error message in Terminal
 
 
 ![Screenshot (96)](https://user-images.githubusercontent.com/80276547/144793517-cf96843b-2377-432d-a87e-558eb61b6ce0.png)
-Error message in text file
-
+Intermediate terminal screen
 
 
 ![Screenshot (97)](https://user-images.githubusercontent.com/80276547/144793519-ae09fbbf-6202-412d-a78a-9539a2f81589.png)
@@ -75,7 +74,7 @@ Credit card update after purchase
 
 ![Screenshot (99)](https://user-images.githubusercontent.com/80276547/144793521-bc55bbfb-80ed-4430-8f44-d3431751b65e.png)
 
-Output amount in Terminal
+Intermediate terminal screen
 
 ![Screenshot (100)](https://user-images.githubusercontent.com/80276547/144793523-095760bc-8189-4e81-a286-16c2ca49f21a.png)
 
