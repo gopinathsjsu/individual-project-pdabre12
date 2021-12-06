@@ -20,7 +20,8 @@ Factory pattern is used because the output file decides whether the output is go
 
 
 ## Class Diagram:
-![Screenshot (90)](https://user-images.githubusercontent.com/80276547/144790435-f40be982-9316-488d-a53a-f488fc6f65c5.png)
+
+![Screenshot (104)](https://user-images.githubusercontent.com/80276547/144799403-1cc9b086-3751-4156-a1fa-ef7362b47fd9.png)
 
 
 ## Test Cases Screenshots:
