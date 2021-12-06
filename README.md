@@ -7,6 +7,7 @@ SJSU ID: 015961439
 - You need Intellij IDE to run the code.
 - Open the zipped folder or the entire folder in Intellij using Open Project.
 - After opening the project go to Market.java which is inside src->main->java->com.example.market->Market.java and run the project.
+- If the java version is not compatible please download the correct JDK version ( Oracle JDK 17)
 - Build and run the code next and you will get a "Enter your input file" prompt in the terminal in that enter Test1.csv,Test2.csv,Test3.csv according to needs.(All the 3 test cases are stored in this file.)
 - Output is displayed in the terminal and the error file or output CSV file is generated and can check the same in the project folder under Output.csv or Error.txt
 
