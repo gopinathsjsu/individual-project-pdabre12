@@ -13,7 +13,14 @@ SJSU ID: 015961439
 
 
 ## Design Patterns :
--Factory Pattern: 
+ 
+### Singleton pattern
+We have Item manager as a singleton pattern.
+As Item Manager controls the stock we want to have only one instance of that in the program, so that no concurrent changes take place to the stock database.
+
+### Factory pattern:
+Factory pattern is used because the output file decides whether the output is going to be an error txt file or an Output CSV file containing final amount
+
 
 
 ## Class Diagram:
