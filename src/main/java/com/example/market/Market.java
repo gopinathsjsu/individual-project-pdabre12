@@ -17,8 +17,8 @@ public class Market {
     public static void main(String... args) {
         ItemCSVParser ItemParser = new ItemCSVParser();
         CreditCardCSVParser cardParser = new CreditCardCSVParser();
-        List<Item> items = ItemParser.readItemsFromCSV("C:/Users/Checkout/Downloads/Dataset (2).csv");
-        List<CreditCard> cards = cardParser.readCardsFromCSV("C:/Users/Checkout/Downloads/Cards.csv");
+        List<Item> items = ItemParser.readItemsFromCSV("Dataset (2).csv");
+        List<CreditCard> cards = cardParser.readCardsFromCSV("Cards.csv");
 
         // let's print all the person read from CSV file
 
@@ -31,8 +31,9 @@ public class Market {
         }
 
         Scanner scanner = new Scanner(System.in);
+        System.out.println("Enter Input File absolute path: ");
         String file = scanner.nextLine();
-        System.out.println(file);
+
 
         //Input file csv converted to database
         InputItemCSVParser input = new InputItemCSVParser();
@@ -59,12 +60,12 @@ public class Market {
 //            System.out.println(i.toString());
 //        }
 
-        System.out.println("Items after database update");
+        System.out.println("Items after database update:\n");
         for (Item i : items) {
             System.out.println(i.toString());
         }
 
-        System.out.println("Final Card list after update");
+        System.out.println("Final Card list after update:\n");
         for ( CreditCard c : cards){
             System.out.println(c.toString());
         }
