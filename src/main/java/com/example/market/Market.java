@@ -31,7 +31,7 @@ public class Market {
         }
 
         Scanner scanner = new Scanner(System.in);
-        System.out.println("Enter Input File absolute path: ");
+        System.out.println("Enter Input File path: ");
         String file = scanner.nextLine();
 
 

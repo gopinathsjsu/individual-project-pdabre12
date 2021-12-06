@@ -74,7 +74,7 @@ public class Validator {
                         System.out.println("Please correct quantities:");
                         System.out.println("Incorrect quantity "+j.getQuantity()+j.getItem());
                         ErrorFile output = new ErrorFile();
-                        output.write("C:/Users/Checkout/Downloads/Error.txt",j.getQuantity(),j.getItem());
+                        output.write("Error.txt",j.getQuantity(),j.getItem());
                         System.exit(1);
                     }
                 }

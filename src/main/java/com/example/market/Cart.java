@@ -34,7 +34,7 @@ public class Cart {
         }
         System.out.println(total);
         OutputCSVFile output = new OutputCSVFile();
-        output.write("C:/Users/Checkout/Downloads/Output.csv",total);
+        output.write("Output.csv",total);
         return total;
 
 
